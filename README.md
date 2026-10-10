@@ -36,11 +36,11 @@ I corrected the comparison messages so the game accurately tells players whether
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- Launch the game -->
-2. <!-- Enter a guess -->
-3. <!-- Follow the hints -->
-4. <!-- Win or lose the game -->
-5. <!-- Start a new game -->
+1. Launch the game
+2. Enter a guess
+3. Follow the hints
+4. Win or lose the game
+5. Start a new game
 
 ## 🧪 Test Results
 ================================= test session starts =================================
